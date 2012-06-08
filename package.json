@@ -1,0 +1,18 @@
+{
+  "name": "node-httpd-fastcgi",
+  "version": "0.0.1",
+  "description": "FastCGI parser for low level parsing of the FastCGI protocol",
+  "author": {
+    "name": "MYSO Software",
+    "email": "smile_0203@nate.com",
+    "url": "http://www.facebook.com/myso.kr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myso-kr/node-httpd-fastcgi"
+  },
+  "main": "./lib/node-httpd-fastcgi",
+  "engines": {
+    "node": ">= 0.6.18"
+  }
+}

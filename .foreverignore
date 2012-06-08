@@ -1,0 +1,5 @@
+.c9revisions/**
+.git/**/*
+.architect/**/*
+node_modules/**/*
+node_modules/.bin/*

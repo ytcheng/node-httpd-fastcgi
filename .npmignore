@@ -1,0 +1,10 @@
+Thumbs.db
+*.swp
+*.log
+.project
+.settings
+.c9revisions
+.architect/
+.sourcemint/
+node_modules
+conf/vhosts.js
